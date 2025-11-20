@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.BR0IJ75L.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/neo/dial.md","filePath":"docs/neo/dial.md"}'),o={name:"docs/neo/dial.md"};function s(c,n,r,d,i,l){return a(),t("div")}const m=e(o,[["render",s]]);export{_ as __pageData,m as default};
