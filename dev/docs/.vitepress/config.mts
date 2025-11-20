@@ -28,6 +28,7 @@ export default defineConfig({
       },
       {
         text: 'Neo Connector',
+        collapsed: true,
         items: [
           { text: 'Introduction', link: '/docs/neo/neo.md' },
           { text: 'Prerequisites', link: '/docs/neo/prerequisites.md' },
@@ -41,6 +42,7 @@ export default defineConfig({
       },
       {
         text: 'Neo UI Framework',
+        collapsed: true,
         items: [
           { text: 'Introduction', link: '/docs/nui/nui.md' },
           { text: 'Quick Start', link: '/docs/nui/qs.md' },
@@ -51,6 +53,7 @@ export default defineConfig({
       },      
       {
         text: 'Kubernetes Consoles',
+        collapsed: true,
         items: [
           { text: 'OpenShift Consoles', link: '/docs/noc/noc.md' },
           { text: 'Deployment', link: '/docs/noc/deploy.md' },

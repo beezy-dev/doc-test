@@ -31,7 +31,7 @@ The Neo Connector has to be registered as an Application within your M365 tenant
 
 In order for the connector to be able to securely communicate with M365 Copilot.
 
-![Select App Registration in the Add menu in Microsoft Azure Entra](../assets/2025-03-10_20-17-27.png)
+![Select App Registration in the Add menu in Microsoft Azure Entra](/2025-03-10_20-17-27.png)
 
 1. Navigate to the Azure Entra portal and select "Add" and select the "App Registration" option.
 2. Fill in the required fields and click "Register". (No Redirect URI is required)

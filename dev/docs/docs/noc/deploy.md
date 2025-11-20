@@ -44,21 +44,21 @@ netapp-openshift-console-[trident,protect]-f7ff95b57-c4cx4   1/1     Running   0
 netapp-openshift-console-[trident,protect]-f7ff95b57-wxs5d   1/1     Running   0          24h  
 ```
 This can also be verified via the console by selecting ```Workloads```, ```Pods```, and the Project```netapp-openshift-console-[trident,protect]```:
-![netapp-openshift-console-[trident,protect] pods](../assets/susanoo-pods.png)
+![netapp-openshift-console-[trident,protect] pods](/susanoo-pods.png)
 
 ## Enable netapp-openshift-console-[trident,protect] in Red Hat OpenShift
 
 This can also be done via the console by:
 * selecting ```Administration```, ```Cluster Settings```, then the tab ```Configuration```:
-![netapp-openshift-console-[trident,protect] cluster settings](../assets/susanoo-clustersettings.png)
+![netapp-openshift-console-[trident,protect] cluster settings](/susanoo-clustersettings.png)
 * clicking on ```Console``` with the mention ```operator.openshift.io```, then the tab ```Console plugins```:
-![netapp-openshift-console-[trident,protect] console plugins](../assets/susanoo-consoleplugins.png)
+![netapp-openshift-console-[trident,protect] console plugins](/susanoo-consoleplugins.png)
 * clicking on ```Disable```, select ```Enable```, then click ```Save```:
-![netapp-openshift-console-[trident,protect] console enable](../assets/susanoo-consolepluginenable.png)
+![netapp-openshift-console-[trident,protect] console enable](/susanoo-consolepluginenable.png)
 * waiting for about a minute, a message will appear welcoming you to refresh the console, click ```Refresh console```:
-![netapp-openshift-console-[trident,protect] console plugins](../assets/susanoo-refreshconsole.png)
+![netapp-openshift-console-[trident,protect] console plugins](/susanoo-refreshconsole.png)
 * At this stage, the version and description should appear as well as the menu ```netapp-openshift-console-[trident,protect] by NetApp``` between ```Storage``` and ```Builds```.
-![netapp-openshift-console-[trident,protect] console plugins](../assets/susanoo-enabled.png)
+![netapp-openshift-console-[trident,protect] console plugins](/susanoo-enabled.png)
 
 ## Uninstall netapp-openshift-console-[trident,protect] 
 
