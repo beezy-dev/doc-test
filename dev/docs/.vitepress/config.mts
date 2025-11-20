@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/doc-test/',
   ignoreDeadLinks: true,
   title: "NetApp Innovation Labs",
   description: "This is the gateway to explore and experiment with our Early Access Software. By participating, you can help shape the future development and direction of these cutting-edge solutions.",
