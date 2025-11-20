@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.BR0IJ75L.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/neo/mcp.md","filePath":"docs/neo/mcp.md"}'),c={name:"docs/neo/mcp.md"};function a(s,n,r,p,d,m){return o(),t("div")}const f=e(c,[["render",a]]);export{i as __pageData,f as default};
