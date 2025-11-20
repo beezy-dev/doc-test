@@ -10,8 +10,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     siteTitle: "Innovation Labs",
     logo: {
-      light: '/docs/assets/n-black.svg',
-      dark: '/docs/assets/n-white.svg',
+      light: '/n-black.svg',
+      dark: '/n-white.svg',
       alt: 'NetApp Logo'
     },
     nav: [
