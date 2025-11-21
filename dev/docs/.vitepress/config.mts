@@ -16,7 +16,11 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Docs', link: '/docs' }
+      // { text: 'Docs', link: '/docs' },
+      { text: 'Neo Connector', link: '/docs/neo/neo.md' },
+      { text: 'Neo UI', link: '/docs/nui/nui.md' },
+      { text: 'OpenShift Consoles', link: '/docs/noc/noc.md' },
+      
     ],
 
     sidebar: [

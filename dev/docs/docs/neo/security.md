@@ -1,6 +1,4 @@
-# NetApp Copilot Connector - Security Documentation
-
-## Overview
+# Overview
 
 ## Application Architecture
 
